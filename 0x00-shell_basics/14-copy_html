@@ -1,2 +1,2 @@
-#!/bin/tash
+#!/bin/bash
 cp -un *.html ../
